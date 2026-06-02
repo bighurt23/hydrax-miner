@@ -1,5 +1,4 @@
-# hydrax-miner
-hydrax-miner
+
 # HydraX Miner
 
 High-performance GPU + CPU crypto miner for NVIDIA. Free, with a transparent 1% dev fee.
